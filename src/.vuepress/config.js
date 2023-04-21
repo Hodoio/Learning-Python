@@ -2,6 +2,7 @@ const { description } = require('../../package')
 
 module.exports = {
     port: 3000,
+    dest: './docs',
     /**
      * Ref：https://v1.vuepress.vuejs.org/config/#title
      */
